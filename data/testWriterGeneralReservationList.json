@@ -1,0 +1,16 @@
+{"allReservations": [
+    {
+        "loungeAccess": true,
+        "name": "Einstein",
+        "feesPaid": 12,
+        "lockerAccess": true,
+        "time": 14
+    },
+    {
+        "loungeAccess": true,
+        "name": "Newton",
+        "feesPaid": 20,
+        "lockerAccess": true,
+        "time": 16
+    }
+]}

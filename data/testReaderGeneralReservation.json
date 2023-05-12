@@ -1,0 +1,9 @@
+{
+  "allReservations": [{
+    "loungeAccess":false,
+    "name":"Sisyphus",
+    "feesPaid":4,
+    "lockerAccess":false,
+    "time":19
+  }]
+}
